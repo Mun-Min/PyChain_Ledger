@@ -15,13 +15,6 @@ You’ll make the following updates to the provided Python file for this assignm
 4. Test the PyChain Ledger by Storing Records.
 
 ---
-## Files
-
-Download the following files to help you get started:
-
-[Module 18 Homework files](Starter_Code/pychain.py)
-
----
 
 ## Instructions
 
@@ -90,13 +83,13 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 5. Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the `README.md` file for your homework repository.
 
 ---
-## Submission
+## Streamlit PyChain Application Screenshot
 
-You’ll upload the Python file for this assignment to your GitHub repository.
+![alt=""](Images/PyChain_Streamlit_Screenshot.png)
 
-* Make sure to update the `README.md` file to include an explanation of the Steamlit application, a screenshot or video of your deployed Streamlit application, and any other information that’s needed to interact with your project.
+    --> This Streamlit Application mimics a blockchain-based ledger system that allows users to conduct financial transactions (transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
-* Submit the link to your GitHub project to Bootcamp Spot.
+    --> To use the application, the user is prompted to enter a Sender address, Receiver address, and the amount of crypto to send. The "PyChain Ledger" tracks and stores the transactions and the user is able to inspect each block/transaction using the "Block Inspector" drop-down menu located to the left of the application. The user is also able to evaluate the Blockchain Ledger System by clicking the "Validate Chain" button, which compares the hash of the previous block to the previous hash of the current block.
 
 ---
 
