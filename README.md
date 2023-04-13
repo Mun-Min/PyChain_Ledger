@@ -19,12 +19,16 @@ You’ll make the following updates to the provided Python file for this assignm
 ## Run Locally
 
 <span style="color:white;font-weight:100;font-size:15px">
-    <b>pip install streamlit</b>
+    <b>Install Streamlit:</b>
 </span>
 
+    pip install streamlit
+    
 <span style="color:white;font-weight:100;font-size:15px">
-    <b>streamlit run pychain.py</b>
+    <b>Run Streamlit App:</b>
 </span>
+
+    streamlit run pychain.py
 
 ---
 ## Streamlit PyChain Application Screenshot
