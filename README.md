@@ -18,7 +18,7 @@ You’ll make the following updates to the provided Python file for this assignm
 
 ## Run Locally
 
-> streamlit run pychain.py
+``` streamlit run pychain.py ```
 
 ---
 ## Streamlit PyChain Application Screenshot
